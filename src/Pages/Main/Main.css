@@ -169,4 +169,10 @@ button {
         padding: 0px;
         gap:0px;
     }
+    .rightSide{
+        padding: 0px 30px;
+    }
+    .summary{
+       text-align: center;
+    }
 }
